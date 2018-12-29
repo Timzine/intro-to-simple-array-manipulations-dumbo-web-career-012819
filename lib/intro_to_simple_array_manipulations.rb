@@ -18,7 +18,9 @@ def pop_with_args(chars_in_game_of_thrones)
    chars_in_game_of_thrones.pop(2) 
   
 end
-def using_shift()
+def using_shift(im_so_over_this_city)
+    im_so_over_this_city.shift()  
+end  
 
 
 
